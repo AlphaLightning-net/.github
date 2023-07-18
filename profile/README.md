@@ -1,6 +1,8 @@
 # AlphaLightning
 
 Willkommen zu unserem Minecraft Server Projekt!
+
+
 Hier findest du eine Übersicht über unser Projekt und eine Liste der vorhandenen Projekte in unserer Organisation.
 
 ## Projektbeschreibung
